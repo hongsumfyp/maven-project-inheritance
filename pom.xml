@@ -27,7 +27,7 @@
     <plugins>
       <!-- Added this plugin so that we can run the program easily with mvn test -->
   	  
-	  <plugin>
+<!--	  <plugin>
 		<groupId>org.owasp</groupId>
 		<artifactId>dependency-check-maven</artifactId>
 		<version>3.1.0</version>
@@ -39,6 +39,7 @@
 		</execution>
 		</executions>
 	  </plugin>
+-->
 	  
     </plugins>
   </build>
